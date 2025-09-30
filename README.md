@@ -18,8 +18,8 @@ Completed projects:
 Ongoing projects:
 - [EmuDeck](https://github.com/janders1993/Tylenol-Deck-build/issues/4)
 - [WOL from outside the network](https://github.com/janders1993/Tylenol-Deck-build/issues/8)
-- [PLACEHOLDER](#license)
-- [PLACEHOLDER](#contact)
+- [PLACEHOLDER possibly S.T.A.L.K.E.R GAMMA]() 
+- [PLACEHOLDER]()
 
 
 ```
