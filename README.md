@@ -16,7 +16,7 @@ Completed projects:
 -   [See also Brutal DooM](https://github.com/janders1993/Tylenol-Deck-build/issues/7)
 
 Ongoing projects:
-- [EmuDeck](https://github.com/janders1993/Tylenol-Deck-build/issues/4))
+- [EmuDeck](https://github.com/janders1993/Tylenol-Deck-build/issues/4)
 - [WOL from outside the network](https://github.com/janders1993/Tylenol-Deck-build/issues/8)
 - [PLACEHOLDER](#license)
 - [PLACEHOLDER](#contact)
