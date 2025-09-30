@@ -8,30 +8,18 @@ Welcome!
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+Completed projects:
+- [Sunshine & Moonlight](https://github.com/janders1993/Tylenol-Deck-build/issues/2)
+-   [See also Moonlight specifics](https://github.com/janders1993/Tylenol-Deck-build/issues/6)
+- [Tailscale](https://github.com/janders1993/Tylenol-Deck-build/issues/3)
+- [GZDooM](https://github.com/janders1993/Tylenol-Deck-build/issues/5)
+-   [See also Brutal DooM](https://github.com/janders1993/Tylenol-Deck-build/issues/7)
 
-## Installation
+Ongoing projects:
+- [EmuDeck](https://github.com/janders1993/Tylenol-Deck-build/issues/4))
+- [WOL from outside the network](https://github.com/janders1993/Tylenol-Deck-build/issues/8)
+- [PLACEHOLDER](#license)
+- [PLACEHOLDER](#contact)
 
-Describe how to install the project. Include prerequisites, dependencies, and step-by-step instructions.
 
-```bash
-# Example installation commands
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-npm install
-```
-
-## Usage
-
-Explain how to use your project. Provide code snippets, examples, and screenshots if possible.
-
-```bash
-# Example usage
-npm start
 ```
